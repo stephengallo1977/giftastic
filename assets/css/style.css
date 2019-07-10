@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+html { 
+  background: url("../images/background.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+button {
+  margin: 5px;
+  padding: 3px 20px;
+  border-radius: 5px;
+  color: #ffffff;
+  background: black;
+}
+
+#car-form {
+  float: right;
+  width: 20%;
+  margin: 10px;
+}
+
+#car-input,
+#add-car {
+  margin-bottom: 10px;
+}
+
+#add-car {
+  padding: 3px 20px;
+  border-radius: 10px;
+  color: #ffffff;
+  background: black;
+}
+
+#gifs-view {
+  width: 75%;
+}
+
+.car {
+  float: left;
+  margin: 10px;
+}
+
+#car-input {
+  width: 100%;
+}
