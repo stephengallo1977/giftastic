@@ -19,7 +19,8 @@ button {
 }
 
 #car-form {
-  float: right;
+  
+  float: center;
   width: 20%;
   margin: 10px;
 }
