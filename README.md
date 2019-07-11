@@ -7,11 +7,11 @@ Description on how to use the app:
 
 Homework Requirements:
 
-   1.Create a page with buttons that will generate 10 gifs from the GIPHY API
+   1. Create a page with buttons that will generate 10 gifs from the GIPHY API
 
-   2.The current animated state of the gif should be toggled by clicking on the gif to either still or animate
+   2. The current animated state of the gif should be toggled by clicking on the gif to either still or animate
 
-   3.A small input field should allow a user to submit a topic which will generate a new button
+   3. A small input field should allow a user to submit a topic which will generate a new button
 
 Technologies Used
 
