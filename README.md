@@ -16,8 +16,11 @@ Homework Requirements:
 Technologies Used
 
 AJAX for API GET requests
+
 GIPHY API
+
 Jquery for Dom Manipulation
+
 CSS for Page Layout
 
 
